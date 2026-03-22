@@ -1,0 +1,22 @@
+{
+  "name": "@gonzih/skills-ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce skills for Claude Code",
+  "main": "index.js",
+  "files": [
+    "skills/",
+    "index.js"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "ecommerce"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-ecommerce"
+  }
+}
