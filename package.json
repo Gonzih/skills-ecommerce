@@ -1,6 +1,6 @@
 {
   "name": "@gonzih/skills-ecommerce",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Ecommerce skills for Claude Code",
   "main": "index.js",
   "files": [

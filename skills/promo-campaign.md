@@ -36,3 +36,9 @@ Produce a brief campaign plan including:
 - Match energy to the offer (big sale = excitement, loyalty reward = warmth, new product = curiosity)
 
 If the user only wants copy for specific channels, focus there. Always offer to iterate on any piece of copy.
+
+## Live Data Sources
+
+- **Google Trends seasonal data** — use [trends.google.com](https://trends.google.com) to identify historical and real-time search volume peaks for product categories and promotional terms (e.g., "winter coat sale", "back to school deals"); align campaign timing to demand curves rather than arbitrary calendar dates
+- **NRF Black Friday / Cyber Monday Benchmark Reports** — the National Retail Federation publishes annual holiday spending forecasts and post-season reports ([nrf.com/research](https://nrf.com/research)) with data on average spend per shopper, top gifted categories, and channel shift trends; use these benchmarks to set realistic offer thresholds and conversion expectations
+- **NRF Retail Calendar** — cross-reference NRF's retail holiday and promotional calendar for awareness dates (Super Bowl, Valentine's Day, Mother's Day, Prime Day equivalent windows) to sequence teaser, launch, and last-chance sends against peak consumer intent periods

@@ -32,3 +32,9 @@ The user will share a customer review. Write a professional, brand-appropriate r
 - If the business has a specific brand voice (fun, formal, earthy, etc.), ask for it or infer from context
 
 Ask for any relevant context (what happened, what was resolved, brand name) if the user hasn't provided it.
+
+## Live Data Sources
+
+- **Yelp Fusion API** — access business review data and ratings via the [Yelp Fusion API](https://docs.developer.yelp.com/docs/fusion-intro) to retrieve recent reviews, star distributions, and review text for benchmarking response tone and identifying recurring complaint themes
+- **Google My Business API** — fetch and reply to Google reviews programmatically via the [Google Business Profile API](https://developers.google.com/my-business/content/overview); use review metadata (rating, date, reviewer history) to prioritize response urgency
+- **Amazon Review Datasets (Hugging Face)** — leverage large-scale Amazon customer review corpora ([McAuley Lab datasets via Hugging Face](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)) for sentiment analysis, common complaint/praise pattern extraction, and training tone calibration by product category
